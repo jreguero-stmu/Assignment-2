@@ -1,4 +1,3 @@
-
 public class Tank extends Vehicle{
 	
 	private double armorWidth;

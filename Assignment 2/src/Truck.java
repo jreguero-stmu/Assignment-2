@@ -1,4 +1,3 @@
-
 public class Truck extends Automobile{
 	
 	private double towCapacity;

@@ -1,4 +1,3 @@
-
 public class Essay extends GradedActivity{
 	
 	private double ptsGrammar;
